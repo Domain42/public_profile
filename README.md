@@ -1,2 +1,2 @@
 # public_profile
-A public profile repository detailing my projects
+A public profile repository detailing my projects to date
