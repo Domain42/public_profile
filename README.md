@@ -1,2 +1,5 @@
 # public_profile
-A public profile repository detailing my projects to date
+John Russell
+
+# Introduction
+blah
