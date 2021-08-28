@@ -5,6 +5,13 @@ Technological innovation, design, problem-solving, production engineering,
 motivation, team building.
 # Education
 Hobart Matriculation College, University of Tasmania.
+# Skills
+Various Assembler, C, C++, Python, Pascal, Lisp, Basic, Perl , VHDL, Software Engineering
+Autocad, Mechanical Design, Product Design, Extensive PCB design experience
+using Altium Designer
+Digital and Analog Electronics, Computer, Microcomputer, FPGA, Communications
+and Neural Network techniques.
+Problem Solving, Team building.
 
 # Company and Project History
 # Saturn South P/L 2009 - 2019
@@ -74,10 +81,3 @@ Audio Retail Sales Outlet.
 # Rycroft Security
 While attending University of Tasmania, worked part time developing electronic
 systems for monitoring burglar alarm systems using Telecom landlines
-# Skills
-Various Assembler, C, C++, Python, Pascal, Lisp, Basic, Perl , VHDL, Software Engineering
-Autocad, Mechanical Design, Product Design, Extensive PCB design experience
-using Altium Designer
-Digital and Analog Electronics, Computer, Microcomputer, FPGA, Communications
-and Neural Network techniques.
-Problem Solving, Team building.
