@@ -1,5 +1,5 @@
 # John Fabian Russell 
-
+:sunglasses:
 # Executive Summary
 Technological innovation, design, problem-solving, production engineering,
 motivation, team building.
