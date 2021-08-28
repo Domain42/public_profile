@@ -5,6 +5,7 @@ Technological innovation, design, problem-solving, production engineering,
 motivation, team building.
 # Education
 Hobart Matriculation College, University of Tasmania.
+
 # Company and Project History
 # Saturn South P/L 2009 - 2019
 Commenced operations to develop green technology power control and distribution
