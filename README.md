@@ -48,7 +48,7 @@ department in designing and producing an FPGA-based correlator.
 Adpative Fish Feeding systems – Designed and developed in Tasmania and exported
 to many countries, these computer-based systems resulted in considerable efficiency
 gains in many aspects of the aquaculture industry.
-## Variable Studio Acoustics 1990 – 1992 1990 – 1992 
+## Variable Studio Acoustics 1990 – 1992 
 Computer controlled recording studio modifiable wall acoustic system
 Client: Australian Broadcasting Corporation - Hobart Classical Studio
 Client: Radio New Zealand - Auckland General Recording Facility.
