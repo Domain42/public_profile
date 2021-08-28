@@ -14,14 +14,14 @@ and Neural Network techniques.
 Problem Solving, Team building.
 
 # Company and Project History
-# Saturn South P/L 2009 - 2019
+## Saturn South P/L 2009 - 2019
 Commenced operations to develop green technology power control and distribution
 products in conjunction with the CSIRO and Energy Response Australia.
-# University of Tasmania 2009 
+## University of Tasmania 2009 
 Consult and provide design resources to the UTAS School of Physics developing
 hardware and software for the internet-based control and monitoring of a 14 metre
 radio telescope at Mt Pleasant Radio Astronomy site.
-# Domain-42 P/L 2006 - 2008
+## Domain-42 P/L 2006 - 2008
 Formed a company to provide technical development resources to third party
 organizations. Obtained a contract with the CSIRO Astrophysics group to develop a
 digital radio receiver for the SKAMP radio telescope array at the Molonglo site in
@@ -33,7 +33,7 @@ prototype Low Frequency Demonstrator (LFD) telescope array currently under
 deployment in Western Australia under the auspices of Sydney University,
 Massechusets Institute of Technolgy (MIT) and University of Southern California,
 San Deigo (UCSD).
-# Protel, now Altium Limited. 2004 – 2006.
+## Protel, now Altium Limited. 2004 – 2006.
 Altium is an Australian company that develops and markets PC-based development
 tools for the design and production of circuit schematics and printed circuit boards.
 The product, named Altium Designer, is the worlds premier product for the PC
@@ -44,18 +44,15 @@ the recently developed (by Xilinx, Intel, Altera and others) Field Programmable 
 Array (FPGA) technology into the Altium Designer product.
 During this period of employment I assisted the University of Tasmania Physics
 department in designing and producing an FPGA-based correlator.
-# Glebe Systems 2003 - 2004
-Acted as a corporate mentor for a company developing video-based security
-monitoring system.
-# Aquasmart P/L 1992 – 2000
+## Aquasmart P/L 1992 – 2000
 Adpative Fish Feeding systems – Designed and developed in Tasmania and exported
 to many countries, these computer-based systems resulted in considerable efficiency
 gains in many aspects of the aquaculture industry.
-# Variable Studio Acoustics 1990 – 1992 1990 – 1992 
+## Variable Studio Acoustics 1990 – 1992 1990 – 1992 
 Computer controlled recording studio modifiable wall acoustic system
 Client: Australian Broadcasting Corporation - Hobart Classical Studio
 Client: Radio New Zealand - Auckland General Recording Facility.
-# Integra Systems P/L – Computer software and systems development
+## Integra Systems P/L – Computer software and systems development
 Health Billing Systems – Client: State Health Department
 Integrated accounting package and production control. Client: Blundstones
 Speed camera adjudication system. Client: Tasmania Police
@@ -68,16 +65,16 @@ Tasman Bridge Gantry Signal System. Client: Transport Tasmania
 EDAS Heart Imaging System. Client: Cardiology, Royal Hobart Hospital
 Blood Gas Analyser Electronics. Client Zelcon Technology
 Early Development Phase – Aquasmart.
-# Management Technology P/L
+## Management Technology P/L
 Embedded computer systems in Industrial Control
 Computer Peripheral Supplier
 Central Business Computing Bureau
 Computing Technology retail.
-# Quantum Electronics P/L
+## Quantum Electronics P/L
 Design and production of high powered guitar and PA audio amplification equipment
 Design and production of folded horn bass radiator loudspeaker systems
 Design and production of audio mixers for live and studio use.
 Audio Retail Sales Outlet.
-# Rycroft Security
+## Rycroft Security
 While attending University of Tasmania, worked part time developing electronic
 systems for monitoring burglar alarm systems using Telecom landlines
