@@ -14,6 +14,9 @@ and Neural Network techniques.
 Problem Solving, Team building.
 
 # Company and Project History
+## 2021
+## Huon Aquaculture 2019 - 2020
+A significant cost in comercial aquaculture is incurred in mechanically cleaning algae from aquaculture nets. These costs can be minimised if accurate measurements can be automatically obtained, allowing net cleaning schedures to be accuately planned. Developed PyTorch tools to analyse algal growth on aquaculture nets from images provided by an unnderwater drone. The objective is to develop an autonomous drone that would navigate each of many aquaculture cages using compass heading, depth and AI analysis of net images.
 ## Saturn South P/L 2009 - 2019
 Commenced operations to develop green technology power control and distribution
 products in conjunction with the CSIRO and Energy Response Australia.
