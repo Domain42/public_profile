@@ -15,6 +15,9 @@ Problem Solving, Team building.
 
 # Company and Project History
 ## 2021
+Developed an app using PyQt5 and yfinance that creates a 1 minute resolution SQL cache of stock price data. The app incudes plotly and matplotlib to generate a plotted volatility index. The cache data can be pipelined to stock analysis processes.
+
+Researching a generalized AI-based app that can identify how existing manufacturing processes can have enhanced efficiency, cost reduction and climate positive improvements.
 ## Huon Aquaculture 2019 - 2020
 A significant cost in comercial aquaculture is incurred in mechanically cleaning algae from aquaculture nets. These costs can be minimised if accurate measurements can be automatically obtained, allowing net cleaning schedures to be accuately planned. Developed PyTorch tools to analyse algal growth on aquaculture nets from images provided by an unnderwater drone. The objective is to develop an autonomous drone that would navigate each of many aquaculture cages using compass heading, depth and AI analysis of net images.
 ## Saturn South P/L 2009 - 2019
